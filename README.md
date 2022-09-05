@@ -1,10 +1,19 @@
 ## Bem-Vindo ao meu perfil!!
+<p> Me chamo Bruno, tenho 22 anos, atualmente faço Sistemas para internet na QI, estudando parte Front-end e Back-end para futuramente ser um Full-stack.
 
 <div align="center">
   <a href="https://github.com/brunosantos007">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunosantos007&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosantos007&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+## Experiências com Tecnologia:
+<ul>
+  <li>Suporte Téncico - VSinfo</li>
+  <li>Suporte Téncico - JFsystem</li>
+  <li>Programador Back-end PHP - Astser Soluções integradas</li>
+  <li>QA Tester - Compasso</li>
+</ul>
 
 ## Tecnologias Utilizadas
 
