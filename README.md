@@ -1,5 +1,7 @@
 ## Bem-Vindo ao meu perfil!!
-<p> Me chamo Bruno, tenho 22 anos, atualmente faço Sistemas para internet na QI, estudando parte Front-end e Back-end para futuramente ser um Full-stack.
+<p> Me chamo Bruno, tenho 22 anos, atualmente faço Sistemas para internet na QI, estudando parte Front-end e Back-end para futuramente ser um Full-stack.</p>
+<p>Veja o meu Portfólio feito em HTML e CSS com responsividade: https://brunosantos007.github.io/Portfolio/ </p>
+
 
 <div align="center">
   <a href="https://github.com/brunosantos007">
