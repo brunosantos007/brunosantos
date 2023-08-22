@@ -13,7 +13,6 @@
 <ul>
   <li>Suporte Téncico - VSinfo</li>
   <li>Suporte Téncico - JFsystem</li>
-  <li>Programador Back-end PHP - Astser Soluções integradas</li>
   <li>QA Tester - Compasso</li>
 </ul>
 
