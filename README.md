@@ -33,10 +33,10 @@ Here are some of my preferences and the technologies I engage with on a daily ba
 - QA Tester - Compasso
 
 ## Technologies Used
-- ![Cucumber](https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg) Cucumber
-- ![Ruby](https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg) Ruby
-- ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) Postman
-- ![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg) Jenkins
+- <img align="center" alt="Cucumber" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg"> Cucumber
+- <img align="center" alt="Ruby" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg"> Ruby
+- <img align="center" alt="Postman" height="20" width="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"> Postman
+- <img align="center" alt="Jenkins" height="20" width="30" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"> Jenkins
 
 ## 🌐 Let's Connect!
 
