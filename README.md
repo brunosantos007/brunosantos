@@ -38,7 +38,7 @@ Here are some of my preferences and the technologies I engage with on a daily ba
 - <img align="center" alt="Ruby" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg"> Ruby
 - <img align="center" alt="Postman" height="20" width="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"> Postman
 - <img align="center" alt="Jenkins" height="20" width="30" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"> Jenkins
-- <img align="center" alt="k6" height="20" width="30" src="https://commons.wikimedia.org/wiki/File:K6-logo.svg"> k6
+- <img align="center" alt="k6" height="20" width="30" src="https://commons.wikimedia.org/wiki/File:K6-logo.svg](https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg"> k6
 
 
 ## 🌐 Let's Connect!
